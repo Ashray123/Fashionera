@@ -11,7 +11,7 @@ const Header = ({ currentUser }) => (
   <div className='header'>
     <Link className='logo-container' to='/'>
       <Logo className='logo' />
-    </Link>
+    </Link> 
     <div className='options'>
       <Link className='option' to='/shop'>
         SHOP
