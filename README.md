@@ -1,4 +1,4 @@
 
 
-   Checkout the website @ https://gifted-kilby-c4d552.netlify.app :)
+   Checkout the website @ https://fashionera.netlify.app/ :)
                                                                     
