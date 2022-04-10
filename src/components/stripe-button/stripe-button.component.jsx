@@ -16,7 +16,7 @@ const StripeCheckoutButton = ({ price }) => {
       name='Fashionera'
       billingAddress
       shippingAddress
-      image='fashionera.png'
+      image='https://www.freeiconspng.com/thumbs/letter-f-icon-png/blue-round-letter-f-icon-png-11.png'
       description={`Your total is $${price}`}
       amount={priceForStripe}
       panelLabel='Pay Now'
